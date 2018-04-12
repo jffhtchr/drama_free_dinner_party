@@ -16,16 +16,21 @@ Imagine you are hosting an event and you need to fit a bunch of people into a ro
 As a user, I can…
 
 Create instances of rectangular tables and place it inside the room. Tables may not overlap with each other or spill outside the boundaries of the room. For the sake of an MVP, tables automatically come with chairs spaced evenly around the table.
+<br/>
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/AddTable.png" alt="Add Img Table"  height="400">
-
+<br/>
 Create an instance of a guest.
+<br/>
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateGuest.png" alt="Add Img Table"  height="400">
-
+<br/>
 Select a guest from the guest list to reveal their personal info. Edit/delete guest.
+<br/>
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/EditGuest.png" alt="Add Img Table"  height="400">
-
+<br/>
 Click on a guests chair to reveal information about that guest. Options to update or delete guest.
+<br/>
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/ClickGuestChair.png" alt="Add Img Table"  height="400">
- 
+<br/>
 Auto-generate a seating chart based on user input.
+<br/>
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateSeatingChart.png" alt="Add Img Table"  height="400">
