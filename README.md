@@ -21,15 +21,13 @@ As a user, I can…
 
 
 - Create an instance of a guest.
-![Create Guest Img](https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateGuest.png)
+<img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateGuest.png" alt="Add Img Table"  height="400">
 
 - Select a guest from the guest list to reveal their personal info. Edit/delete guest.
-![Edit Guest Img](https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/EditGuest.png)
+<img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/EditGuest.png" alt="Add Img Table"  height="400">
 
 - Click on a guests chair to reveal information about that guest. Options to update or delete guest.
-![Click Guest Chair Img](https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/ClickGuestChair.png)
-
+<img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/ClickGuestChair.png" alt="Add Img Table"  height="400">
  
 - Auto-generate a seating chart based on user input.
-![Create Seating Chart Img](https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateSeatingChart.png)
-
+<img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateSeatingChart.png" alt="Add Img Table"  height="400">
