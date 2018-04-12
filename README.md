@@ -18,8 +18,6 @@ As a user, I can…
 - Create instances of rectangular tables and place it inside the room. Tables may not overlap with each other or spill outside the boundaries of the room. For the sake of an MVP, tables automatically come with chairs spaced evenly around the table.
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/AddTable.png" alt="Add Img Table"  height="400">
 
-
-
 - Create an instance of a guest.
 <img src="https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/CreateGuest.png" alt="Add Img Table"  height="400">
 
