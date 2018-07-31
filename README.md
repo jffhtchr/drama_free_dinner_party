@@ -6,7 +6,7 @@ Built using Node, Express, PostgreSQL, Sequelize, HTML5 Canvas, and React-Redux.
 
 ## -- Overview -- ##
 
-Imagine you are hosting an event and you need to fit a bunch of people into a room to eat dinner. There are two things you must figure out. 1) For a given number of guests, how can you arrange the tables/chairs/misc furniture in a rectangular room that is X feet wide by Y feet long so that everyone fits comfortably? 2) How can you generate a seating chart to to minimize awkward conversation/ fights so that everyone is happy? 
+Imagine you are hosting an event and you need to fit a bunch of people into a room to eat dinner. There are two things you must figure out. 1) For a given number of guests, how can you arrange the tables/chairs/misc furniture in a rectangular room that is X feet wide by Y feet long so that everyone fits comfortably? 2) How can you generate a seating chart to to minimize awkward conversation and fights so that everyone is happy? 
 
 ## -- Layout -- ##
 ![layout img](https://raw.githubusercontent.com/jffhtchr/drama_free_dinner_party/master/images/SeatingChart.png)
